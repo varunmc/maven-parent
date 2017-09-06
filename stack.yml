@@ -16,7 +16,7 @@ Parameters:
     Type: String
 
   Repository:
-    Default: maven-parent
+    Default: parent
     Description: The repository name
     Type: String
 
