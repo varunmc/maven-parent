@@ -74,7 +74,9 @@
 								<includeDirectories>
 									<include>src/main/proto</include>
 								</includeDirectories>
-								<inputDirectories>src/main/proto</inputDirectories>
+								<inputDirectories>
+									<inputDirectory>src/main/proto</inputDirectory>
+								</inputDirectories>
 								<protocVersion>${protoc.version}</protocVersion>
 							</configuration>
 							<goals>
