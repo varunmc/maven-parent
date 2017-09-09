@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-Description: The Parent POM
+Description: The Parent Stack
 
 ####################
 Parameters:
