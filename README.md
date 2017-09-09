@@ -1,4 +1,4 @@
-# maven-parent
+# parent
 _Parent POM to the platform_
 
 This POM is the parent to all Maven projects on the platform. Besides importing the [Bill Of Materials](https://github.com/varunmc/bill-of-materials), it also specifies default versions and configurations of all plugins.
