@@ -1,7 +1,7 @@
 # parent
 _Parent to all Maven projects_
 
-This is the parent to all Maven projects on the platform. It imports the [Bill Of Materials](https://github.com/varunmc/bill-of-materials) and specifies defaults for build plugins.
+This is the parent to all Maven projects on the platform. It imports the [Bill Of Materials](https://github.com/varunmc/bill-of-materials) and sets default configuration for build plugins.
 
 ## Pre-Requisites
 * [bill-of-materials](https://github.com/varunmc/bill-of-materials)
